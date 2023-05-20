@@ -1,0 +1,6 @@
+{
+"name": "halfsword-addon",
+"repo_url": "https://github.com/half-sword/halfsword-addon",
+"repo_paths": ["unimenu_addon"],
+"description": "manage tools for half-sword from the blender menu"
+}
